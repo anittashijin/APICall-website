@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://apicall-website-server-2.onrender.com"
